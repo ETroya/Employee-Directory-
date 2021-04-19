@@ -3,14 +3,15 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
 import Footer from "./components/Footer";
-import SearchForm from "./components/Searchform";
+import Employeelist from "./components/Employeelist";
 
 function App() {
   return(
     <div>
       <Navbar />
       <Wrapper>
-       <SearchForm />
+
+       <Employeelist />
       </Wrapper>
       <Footer />
    
