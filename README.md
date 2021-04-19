@@ -12,7 +12,12 @@ Using React: having the ability to view an entire employee directory
 * Bootstrap
 
 ## ScreenCast
-https://drive.google.com/file/d/17WqODLlBmnnYeRd1RynJpDdPyOq9OfXv
+https://user-images.githubusercontent.com/73420700/115189656-a8f5fb00-a09b-11eb-90db-1d97ff56731e.mp4
+
 
 ## Screenshot
-<img src= "directory.png">
+![directory](https://user-images.githubusercontent.com/73420700/115189630-9da2cf80-a09b-11eb-98ae-1c38697f26ad.PNG)
+
+
+## GitHub Pages
+https://etroya.github.io/Employee-Directory-/
